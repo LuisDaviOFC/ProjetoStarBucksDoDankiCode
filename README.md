@@ -2,7 +2,7 @@
 
 O Projeto StarBucks do Danki Code é uma iniciativa que se destaca por sua simplicidade e abordagem direta no desenvolvimento web. Este projeto concentra-se exclusivamente no uso de HTML e CSS, sem a incorporação de outras linguagens ou tecnologias como JavaScript, SASS ou quaisquer outras. Além disso, ele não se preocupa com responsividade ou acessibilidade, tornando-o um projeto ideal para iniciantes que desejam aprender os fundamentos da construção de sites.
 
-A base desse projeto é o uso de HTML intermediário, explorando tags, atributos globais e não globais para criar a estrutura e o conteúdo da página da web. Isso inclui a utilização de elementos HTML como <div>, <p>, <a>, <img>, entre outros, e a aplicação de atributos para definir características específicas de cada elemento.
+A base desse projeto é o uso de HTML intermediário, explorando tags, atributos globais e não globais para criar a estrutura e o conteúdo da página da web. Isso inclui a utilização de elementos HTML como div, p e entre outros, e a aplicação de atributos para definir características específicas de cada elemento.
 
 O CSS também é utilizado de forma básica, aplicando propriedades simples para estilizar o conteúdo da página. Essas propriedades podem incluir definições de cor, tamanho de fonte, margens e posicionamento de elementos na página. O projeto não busca criar designs complexos, mas sim proporcionar uma compreensão sólida dos princípios de estilização em CSS.
 
