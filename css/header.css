@@ -1,0 +1,38 @@
+header{
+    height: 200px; /*Altura do Cabeçalho*/
+    padding: 20px 0; /*Preenchimento do Cabeçalho*/
+}
+
+div.menu{
+    /*Colocar tudo em uma linha*/
+    display: flex; 
+    flex-wrap: wrap;
+    max-width: 1780px;/*Maximo de Altura do Menu*/
+    margin: 0 auto; /*Centralizar o Menu no Cabeçalho*/
+    padding: 0 2%; /*Preenchimento do Menu*/
+}
+
+/*Tamanho da caixa da Logo*/
+div.logo{
+    width: 50%;
+}
+
+/*Tamanho da Imagem da Logo*/
+div.logo > img{
+    width: 10%;
+}
+
+/*Menu de Links*/
+div.menulinks{
+    width: 50%; /*Largura da Caixa do Menu de Links*/
+    text-align: right; /*Links do Lado Direito do Menu de Links*/
+    padding-top: 40px; /*Preenchimento do Topo da Caixa de Menu de Links*/
+}
+
+/*Links do Menu de Links*/
+div.menulinks a{
+    text-decoration: none; /*Sem nenhuma decoração no link*/
+    color: black; /*Cor do Link*/
+    font-weight: bold; /*Link em Negrito*/
+    margin-right: 40px; /*Margem da Direita dos Links*/
+}

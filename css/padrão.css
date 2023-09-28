@@ -1,0 +1,12 @@
+/*Estilo Geral*/
+*{
+    border: 0; /*Borda Zerado*/
+    margin: 0; /*Margem Zerado*/
+    padding: 0; /*Preenchimento Zerado*/
+}
+
+/*Tela fixa*/
+html, body{
+    overflow: hidden; /*Sem Scrool Vertical e Horizontal*/
+    height: 100%; /*Altura do site*/
+}
