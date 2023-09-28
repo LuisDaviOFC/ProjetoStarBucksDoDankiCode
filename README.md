@@ -11,3 +11,6 @@ O objetivo principal do Projeto StarBucks é educacional. Ele foi concebido para
 Além disso, o projeto também enfatiza a importância de uma abordagem de aprendizado prática, permitindo que os alunos pratiquem suas habilidades de codificação e adquiram experiência na criação de um site real. Embora o projeto seja pequeno e simples, ele serve como um ponto de partida valioso para futuros desenvolvedores web, fornecendo uma base sólida para explorar tecnologias mais avançadas no futuro.
 
 Em resumo, o Projeto StarBucks do Danki Code é uma ferramenta educacional que visa ensinar os princípios fundamentais de HTML e CSS, oferecendo uma introdução prática ao desenvolvimento web. Embora seja limitado em complexidade, ele desempenha um papel crucial na capacitação de novos desenvolvedores e na construção de uma base sólida para explorar projetos web mais avançados no futuro.
+
+
+Link do Site: https://luisdaviofc.github.io/ProjetoStarBucksDoDankiCode/
